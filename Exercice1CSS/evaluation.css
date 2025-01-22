@@ -1,0 +1,24 @@
+
+
+body{
+    background-color: dodgerblue;
+}
+
+.highlight{
+    color: #f6f8fa;
+    font-weight: bold;
+}
+
+ul{
+color: rgb(43, 41, 41);
+
+}
+
+.special{
+    border: 2px solid white;
+    background-color: #afb1b5;
+}
+
+#element1{
+    background-color: rgb(248, 248, 26);
+}

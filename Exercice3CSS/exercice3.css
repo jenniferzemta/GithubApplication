@@ -1,0 +1,25 @@
+
+
+body{
+    background-color:rgb(132, 212, 164);
+}
+
+#p2{
+    font-weight: bold;
+}
+
+.p1{
+    font-style: italic;
+}
+
+.item-highlight {
+    color: dodgerblue;
+}
+
+[class^="a"] {
+    background-color: yellow;
+}
+
+[class$="date"] {
+    background-color: green;
+}
